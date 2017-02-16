@@ -1,3 +1,13 @@
 body {
-  font-family:sans-serif;
+    background-color: powderblue;
+}
+h1 {
+    color: blue;
+}
+p {
+    color: red;
+}
+.container {
+    max-width: 800px
+    margin:auto;
 }
