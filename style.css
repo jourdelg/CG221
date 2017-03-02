@@ -1,13 +1,18 @@
 body {
-    background-color: powderblue;
+    background-color: black;
+    text-align: center;
+    color: pink;
 }
 h1 {
-    color: blue;
+    color: white;
 }
 p {
-    color: red;
+    color: pink;
 }
 .container {
     max-width: 800px
     margin:auto;
+}
+ul{
+  list-style: none;
 }
