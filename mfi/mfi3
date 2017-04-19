@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+  <head>
+  </head>
+  <body>
+    <header>
+      Colors
+    </header>
+    <a href="http://clrs.cc//">
+      Clrs allows you to test different color swatches for files in css.
+    </a>
+  </body>
+</html>
