@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+    </head>
+    <body>
+        <h1>
+          <a href="https://daneden.github.io/animate.css/"> Animate.css</a>
+        </h1>
+        
+          Animate.css shows you what animations in css do before you implement them into your code. Very helpful when learning css in general
+    </body>
+</html>
